@@ -1,0 +1,114 @@
+#title{background-color: #1fab89;}
+h1{
+  font-family: 'Ubuntu';
+  font-size: 3rem;
+  line-height: 1;
+  color: #fff;
+}
+
+
+
+#press{
+  padding: 1% 0 1%;
+  text-align: center;
+  background-color: #d7fbe8;
+font-size:1rem;
+
+
+}
+.logo{
+    width: 7%;
+    padding: 1% 1% 0;
+
+
+
+}
+#pricing{
+
+  background-color: #d7fbe8;
+text-align: center;
+padding: 3% 7% 3%;
+
+
+
+}
+
+#cta{
+  text-align: center;
+  padding:   5rem 0 5rem;
+  background-color: #1fab89;
+  color:#fff;
+
+
+}
+
+
+.butt{
+margin-top: 5%
+}
+.titlerow{
+  padding: 8% 10% 2%;
+
+}
+
+
+.carousel-item {
+  text-align: center;
+  background-color:#1fab89;
+  padding: 5% 10%;
+  font-family: 'Ubuntu';
+  font-size: 3rem;
+  line-height: 1.5;
+  color:#fff;
+
+}
+
+
+p{font-size:1.5rem;}
+
+.container-fluid{
+padding: 2% 0 4%;
+}
+
+
+.icons{
+font-size: 3rem;
+text-align: center;
+padding: 0 2% ;
+
+}
+
+
+.device{
+  padding: 0 0;
+}
+
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding: 0 8rem ;
+}
+
+.image1{
+  transform: rotate(5deg);
+
+}
+.features{
+
+list-style-image:
+}
+
+#footer{
+  text-align: center;
+  padding: 3% 0 3%;
+  background-color: #596e79;
+  font-size: 1rem;
+  color: #fff;
+}
+.butt{
+  margin-top: 5%;
+}
